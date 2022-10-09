@@ -1,0 +1,30 @@
+C:\Users\cnyarko1_s\Desktop\MortgageLoanApplication\MortgageLoan\obj\Debug\net6.0\MortgageLoan.csproj.AssemblyReference.cache
+C:\Users\cnyarko1_s\Desktop\MortgageLoanApplication\MortgageLoan\obj\Debug\net6.0\MortgageLoan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cnyarko1_s\Desktop\MortgageLoanApplication\MortgageLoan\obj\Debug\net6.0\MortgageLoan.AssemblyInfoInputs.cache
+C:\Users\cnyarko1_s\Desktop\MortgageLoanApplication\MortgageLoan\obj\Debug\net6.0\MortgageLoan.AssemblyInfo.cs
+C:\Users\cnyarko1_s\Desktop\MortgageLoanApplication\MortgageLoan\obj\Debug\net6.0\MortgageLoan.csproj.CoreCompileInputs.cache
+C:\Users\cnyarko1_s\Desktop\MortgageLoanApplication\MortgageLoan\bin\Debug\net6.0\MortgageLoan.exe
+C:\Users\cnyarko1_s\Desktop\MortgageLoanApplication\MortgageLoan\bin\Debug\net6.0\MortgageLoan.deps.json
+C:\Users\cnyarko1_s\Desktop\MortgageLoanApplication\MortgageLoan\bin\Debug\net6.0\MortgageLoan.runtimeconfig.json
+C:\Users\cnyarko1_s\Desktop\MortgageLoanApplication\MortgageLoan\bin\Debug\net6.0\MortgageLoan.dll
+C:\Users\cnyarko1_s\Desktop\MortgageLoanApplication\MortgageLoan\bin\Debug\net6.0\MortgageLoan.pdb
+C:\Users\cnyarko1_s\Desktop\MortgageLoanApplication\MortgageLoan\obj\Debug\net6.0\MortgageLoan.dll
+C:\Users\cnyarko1_s\Desktop\MortgageLoanApplication\MortgageLoan\obj\Debug\net6.0\refint\MortgageLoan.dll
+C:\Users\cnyarko1_s\Desktop\MortgageLoanApplication\MortgageLoan\obj\Debug\net6.0\MortgageLoan.pdb
+C:\Users\cnyarko1_s\Desktop\MortgageLoanApplication\MortgageLoan\obj\Debug\net6.0\MortgageLoan.genruntimeconfig.cache
+C:\Users\cnyarko1_s\Desktop\MortgageLoanApplication\MortgageLoan\obj\Debug\net6.0\ref\MortgageLoan.dll
+C:\Users\cnyarko1_s\Desktop\MortgageLoanApplication - Copy\MortgageLoan\bin\Debug\net6.0\MortgageLoan.exe
+C:\Users\cnyarko1_s\Desktop\MortgageLoanApplication - Copy\MortgageLoan\bin\Debug\net6.0\MortgageLoan.deps.json
+C:\Users\cnyarko1_s\Desktop\MortgageLoanApplication - Copy\MortgageLoan\bin\Debug\net6.0\MortgageLoan.runtimeconfig.json
+C:\Users\cnyarko1_s\Desktop\MortgageLoanApplication - Copy\MortgageLoan\bin\Debug\net6.0\MortgageLoan.dll
+C:\Users\cnyarko1_s\Desktop\MortgageLoanApplication - Copy\MortgageLoan\bin\Debug\net6.0\MortgageLoan.pdb
+C:\Users\cnyarko1_s\Desktop\MortgageLoanApplication - Copy\MortgageLoan\obj\Debug\net6.0\MortgageLoan.csproj.AssemblyReference.cache
+C:\Users\cnyarko1_s\Desktop\MortgageLoanApplication - Copy\MortgageLoan\obj\Debug\net6.0\MortgageLoan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cnyarko1_s\Desktop\MortgageLoanApplication - Copy\MortgageLoan\obj\Debug\net6.0\MortgageLoan.AssemblyInfoInputs.cache
+C:\Users\cnyarko1_s\Desktop\MortgageLoanApplication - Copy\MortgageLoan\obj\Debug\net6.0\MortgageLoan.AssemblyInfo.cs
+C:\Users\cnyarko1_s\Desktop\MortgageLoanApplication - Copy\MortgageLoan\obj\Debug\net6.0\MortgageLoan.csproj.CoreCompileInputs.cache
+C:\Users\cnyarko1_s\Desktop\MortgageLoanApplication - Copy\MortgageLoan\obj\Debug\net6.0\MortgageLoan.dll
+C:\Users\cnyarko1_s\Desktop\MortgageLoanApplication - Copy\MortgageLoan\obj\Debug\net6.0\refint\MortgageLoan.dll
+C:\Users\cnyarko1_s\Desktop\MortgageLoanApplication - Copy\MortgageLoan\obj\Debug\net6.0\MortgageLoan.pdb
+C:\Users\cnyarko1_s\Desktop\MortgageLoanApplication - Copy\MortgageLoan\obj\Debug\net6.0\MortgageLoan.genruntimeconfig.cache
+C:\Users\cnyarko1_s\Desktop\MortgageLoanApplication - Copy\MortgageLoan\obj\Debug\net6.0\ref\MortgageLoan.dll
